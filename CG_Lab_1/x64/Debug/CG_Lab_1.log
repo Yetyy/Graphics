@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Cici\CG_Lab_1\CG_Lab_1\Source.cpp(19,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Cici\CG_Lab_1\CG_Lab_1\Source.cpp(47,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Cici\CG_Lab_1\CG_Lab_1\Source.cpp(48,94): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CG_Lab_1.vcxproj -> D:\Cici\CG_Lab_1\x64\Debug\CG_Lab_1.exe
